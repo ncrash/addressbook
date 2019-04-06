@@ -10,4 +10,4 @@
 ## 2019.04.06 19:36 업데이트
 
 * 신용카드사 2개, 통신사 1개 등록
-![Messages](images/IMG_CDA644371250-1.jpeg)
+* ![Messages](images/IMG_CDA644371250-1.jpeg)
